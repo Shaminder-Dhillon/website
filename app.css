@@ -3,3 +3,12 @@
       max-width: 420px;
     }
   }
+
+  #icon {
+    color: darkgray;
+    padding-left: 5px;
+}
+
+#icon:hover {
+  color: darkblue;
+}
