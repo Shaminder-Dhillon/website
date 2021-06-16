@@ -1,1 +1,1 @@
-document.querySelector('.container').style.padding = "20px 10px 20px 10px";
+document.querySelector('.container').style.padding = "10px 30px 10px 30px";
